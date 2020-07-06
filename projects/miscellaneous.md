@@ -139,3 +139,8 @@
 
 - [COVID-19 Tracker | India](https://indiafightscorona.netlify.app/)
     - By: [@vinitshahdeo](https://github.com/vinitshahdeo)
+
+---
+
+- [COVID-19 Tracker | World / India  | VueJS](https://zu-c19stats.netlify.app/)
+    - By: [@Tech_Zu](https://github.com/zutechv2/c19stats)
